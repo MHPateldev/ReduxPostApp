@@ -1,3 +1,13 @@
+Demo App using Redux and reak time data storing.
+
+Used in Making:
+Redux,
+Redux-thunk,
+axios,
+React.
+
+Tanx 4 visitin...
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
